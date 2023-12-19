@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/scholaempirica/universe
-	shallow = true
 	branch = HEAD
 [submodule "reschola"]
 	path = reschola
 	url = https://github.com/scholaempirica/reschola
-	shallow = true
-	registered = true
