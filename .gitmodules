@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/scholaempirica/universe
+	url = https://github.com/scholaempirica/scholaempirica.r-universe.dev
 	branch = HEAD
 [submodule "reschola"]
 	path = reschola
