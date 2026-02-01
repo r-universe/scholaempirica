@@ -2,10 +2,6 @@
 	path = .registry
 	url = https://github.com/scholaempirica/scholaempirica.r-universe.dev
 	branch = HEAD
-[submodule "hrbrthemes"]
-	path = hrbrthemes
-	url = https://github.com/hrbrmstr/hrbrthemes
-	registered = false
 [submodule "reschola"]
 	path = reschola
 	url = https://github.com/scholaempirica/reschola
